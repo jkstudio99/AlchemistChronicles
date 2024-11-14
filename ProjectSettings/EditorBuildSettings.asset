@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2D Platformer - Game Template/Scenes/MenuScene.unity
+    guid: 6a6d004f7a6ded54ea753688109c3bbc
+  - enabled: 1
+    path: Assets/2D Platformer - Game Template/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/2D Platformer - Game Template/Scenes/SampleSceneTwo.unity
+    guid: bbf862591d569ea408648e3c8170288a
+  - enabled: 1
+    path: Assets/2D Platformer - Game Template/Scenes/GameOver.unity
+    guid: 0a90f44c1143e0040aff9a9cc035335b
+  m_configObjects: {}
