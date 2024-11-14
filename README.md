@@ -2,8 +2,9 @@
 **ภาษาไทย: ตำนานนักเล่นแร่แปรธาตุ: ดันเจี้ยนโพชั่นเวทมนตร์**
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/951743dc-e63b-4711-9fcc-8c0c033b4ca8" alt="Alchemist Chronicles Logo" width="500" />
+  <img src="https://github.com/user-attachments/assets/99b05e10-ea37-4acc-866d-d23c03a45598" alt="Alchemist Chronicles Logo" width="500" />
 </p>
+
 
 ## สารบัญ
 
