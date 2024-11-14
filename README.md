@@ -124,8 +124,8 @@
 - **อีเมล:**
   - Pathompong Chanphiw: [66130045@dpu.ac.th](mailto:66130045@dpu.ac.th)
   - Warongkon Fukthongyoo: [66130773@dpu.ac.th](mailto:66130773@dpu.ac.th)
-- **เว็บไซต์:** [mailto:alchemistchronicles.dev108.com/](https://alchemistchronicles.dev108.com/))
-- **Facebook:** [Alchemist Chronicles](https://www.facebook.com/alchemistchronicles)
+<p><strong>เว็บไซต์:</strong> <a href="https://alchemistchronicles.dev108.com/" target="_blank" rel="noopener noreferrer">alchemistchronicles.dev108.com</a></p>
+<p><strong>Facebook:</strong> <a href="https://www.facebook.com/alchemistchronicles" target="_blank" rel="noopener noreferrer">Alchemist Chronicles</a></p>
 
 ## ใบอนุญาต
 
