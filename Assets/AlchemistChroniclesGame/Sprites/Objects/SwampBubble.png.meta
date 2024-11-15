@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 7e39c25076814964e9ac164eff46a6ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1974136964116064754
+    second: SwampBubble_11
+  - first:
+      213: 8291077580183298633
+    second: SwampBubble_11
+  - first:
+      213: -4772149472431374481
+    second: SwampBubble_11
+  - first:
+      213: 7901175497887480312
+    second: SwampBubble_11
+  - first:
+      213: -7677020614909566965
+    second: SwampBubble_4
+  - first:
+      213: 409626923591279343
+    second: SwampBubble_5
+  - first:
+      213: 8509346833303373444
+    second: SwampBubble_6
+  - first:
+      213: 8482634582901479207
+    second: SwampBubble_7
+  - first:
+      213: 198460880165003127
+    second: SwampBubble_07
+  - first:
+      213: -8837908965678687252
+    second: SwampBubble_9
+  - first:
+      213: -4788410228943354587
+    second: SwampBubble_11
+  - first:
+      213: -1992760864690200161
+    second: SwampBubble_11
+  - first:
+      213: 6028724424523008060
+    second: SwampBubble_12
+  - first:
+      213: 5052784580007493396
+    second: SwampBubble_13
+  - first:
+      213: 8570239141998041447
+    second: SwampBubble_03
+  - first:
+      213: 3927179014592602219
+    second: SwampBubble_04
+  - first:
+      213: -8515838713502048282
+    second: SwampBubble_05
+  - first:
+      213: 1270004425122059879
+    second: SwampBubble_06
+  - first:
+      213: -3718856692483214797
+    second: SwampBubble_18
+  - first:
+      213: 1596687598432767360
+    second: SwampBubble_19
+  - first:
+      213: 4815251494055535671
+    second: SwampBubble_20
+  - first:
+      213: -3265525105836845134
+    second: SwampBubble_21
+  - first:
+      213: -8350527770350927385
+    second: SwampBubble_22
+  - first:
+      213: 6892361349332403538
+    second: SwampBubble_23
+  - first:
+      213: -6837600075814593523
+    second: SwampBubble_01
+  - first:
+      213: -4194978700209134800
+    second: SwampBubble_02
+  - first:
+      213: 3688972807485285895
+    second: SwampBubble_26
+  - first:
+      213: -1377684310247816719
+    second: SwampBubble_27
+  - first:
+      213: 3744256056638427231
+    second: SwampBubble_28
+  - first:
+      213: 2895108665957045880
+    second: SwampBubble_29
+  - first:
+      213: -1862673165242588993
+    second: SwampBubble_30
+  - first:
+      213: -2637819585409423052
+    second: SwampBubble_31
+  - first:
+      213: -5089043987586373222
+    second: SwampBubble_32
+  - first:
+      213: -195265465838025191
+    second: SwampBubble_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwampBubble_08
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 375
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92b140c1b856b10800000000000000
+      internalID: -7505529914527086400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_07
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 0
+        width: 287
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdb087e1311c200800000000000000
+      internalID: 198460880165003127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_03
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 114
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76911f2b71b9fe670800000000000000
+      internalID: 8570239141998041447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_04
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 147
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b602926b184208630800000000000000
+      internalID: 3927179014592602219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_05
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 181
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efd0351fc9a1d980800000000000000
+      internalID: -8515838713502048282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_06
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 222
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766139ebb46ff9110800000000000000
+      internalID: 1270004425122059879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c13ec45f6fb11a0800000000000000
+      internalID: -6837600075814593523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_02
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 86
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03364bd191178c5c0800000000000000
+      internalID: -4194978700209134800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_09
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 0
+        width: 429
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942e7049123df0370800000000000000
+      internalID: 4587598312639254734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_10
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 0
+        width: 592
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff8a8b65be5cdb0800000000000000
+      internalID: -4788410228943354587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampBubble_11
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 568
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f97a9bc04d96ad60800000000000000
+      internalID: 1974136964116064754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SwampBubble_01: -6837600075814593523
+      SwampBubble_02: -4194978700209134800
+      SwampBubble_03: 8570239141998041447
+      SwampBubble_04: 3927179014592602219
+      SwampBubble_05: -8515838713502048282
+      SwampBubble_06: 1270004425122059879
+      SwampBubble_07: 198460880165003127
+      SwampBubble_08: -7505529914527086400
+      SwampBubble_09: 4587598312639254734
+      SwampBubble_10: -4788410228943354587
+      SwampBubble_11: 1974136964116064754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

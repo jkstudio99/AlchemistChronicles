@@ -15,6 +15,7 @@ TagManager:
   - StickOutNail
   - Trap
   - Pet
+  - Potion
   layers:
   - Default
   - TransparentFX

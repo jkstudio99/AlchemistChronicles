@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 4caa0d010f2b1344eb3e0bbd6faa1350
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4849099925481572769
+    second: WoodenSigns_0
+  - first:
+      213: 3571575554299729418
+    second: WoodenSigns_1
+  - first:
+      213: -7866183668587765804
+    second: WoodenSigns_2
+  - first:
+      213: 6639390459188095198
+    second: WoodenSigns_3
+  - first:
+      213: -3753619090449167893
+    second: WoodenSigns_4
+  - first:
+      213: -7480309605987210673
+    second: WoodenSigns_5
+  - first:
+      213: 4845430104294940838
+    second: WoodenSigns_6
+  - first:
+      213: -3292141653470121755
+    second: WoodenSigns_7
+  - first:
+      213: -5204775559573160622
+    second: WoodenSigns_8
+  - first:
+      213: -5119789849815481696
+    second: WoodenSigns_9
+  - first:
+      213: -4400399250165971584
+    second: WoodenSigns_10
+  - first:
+      213: 6766340030376722260
+    second: WoodenSigns_11
+  - first:
+      213: -7775292814735266722
+    second: WoodenSigns_0
+  - first:
+      213: -8055071977832902714
+    second: WoodenSigns_1
+  - first:
+      213: 997905426484948291
+    second: WoodenSigns_2
+  - first:
+      213: 8576543978591203927
+    second: WoodenSigns_3
+  - first:
+      213: -8301406972784234846
+    second: WoodenSigns_4
+  - first:
+      213: -1379404695010483991
+    second: WoodenSigns_5
+  - first:
+      213: -6491701015076391117
+    second: WoodenSigns_6
+  - first:
+      213: -8912586951990701604
+    second: WoodenSigns_7
+  - first:
+      213: -5136612715024972426
+    second: WoodenSigns_8
+  - first:
+      213: 1308151809743040135
+    second: WoodenSigns_9
+  - first:
+      213: -4221197482948373835
+    second: WoodenSigns_10
+  - first:
+      213: 3407817030603246063
+    second: WoodenSigns_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WoodenSigns_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 583
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33734504258d8e5a0800000000000000
+      internalID: 4845430104294940838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 583
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd110d85361205480800000000000000
+      internalID: -3292141653470121755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_8
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 584
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758e2c53f517b8b0800000000000000
+      internalID: -5204775559573160622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 583
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea40cd32d772210800000000000000
+      internalID: -5119789849815481696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_10
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 0
+        width: 583
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d61e014b4b65c0800000000000000
+      internalID: -4400399250165971584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_11
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 0
+        width: 583
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe902a0b88ffa4f20800000000000000
+      internalID: 6766340030376722260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 583
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f563c453f4984bcb0800000000000000
+      internalID: -4849099925481572769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 567
+        width: 583
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06118a2b09c09130800000000000000
+      internalID: 3571575554299729418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_2
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 567
+        width: 583
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd8d751a3b5d290800000000000000
+      internalID: -7866183668587765804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_3
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 567
+        width: 584
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed82605127ad32c50800000000000000
+      internalID: 6639390459188095198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_4
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 567
+        width: 583
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be907a3235778ebc0800000000000000
+      internalID: -3753619090449167893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenSigns_5
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 567
+        width: 583
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa035bb0a903890800000000000000
+      internalID: -7480309605987210673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WoodenSigns_0: -4849099925481572769
+      WoodenSigns_1: 3571575554299729418
+      WoodenSigns_10: -4400399250165971584
+      WoodenSigns_11: 6766340030376722260
+      WoodenSigns_2: -7866183668587765804
+      WoodenSigns_3: 6639390459188095198
+      WoodenSigns_4: -3753619090449167893
+      WoodenSigns_5: -7480309605987210673
+      WoodenSigns_6: 4845430104294940838
+      WoodenSigns_7: -3292141653470121755
+      WoodenSigns_8: -5204775559573160622
+      WoodenSigns_9: -5119789849815481696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
